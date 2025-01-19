@@ -1,3 +1,7 @@
+---
+layout: default
+title: Reza Khaksar
+---
 <link rel="stylesheet" type="text/css" href="css/styles.css">
 
 **Email**: reza.khaksar@gmail.com  
