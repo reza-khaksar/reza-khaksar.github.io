@@ -1,6 +1,3 @@
----
-title: "My pages"
----
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 # Reza Khaksar
