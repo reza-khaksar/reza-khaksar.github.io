@@ -1,3 +1,7 @@
+---
+layout: default
+title: Reza Khaksar
+---
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 # Reza Khaksar
