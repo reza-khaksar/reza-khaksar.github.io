@@ -1,4 +1,25 @@
 body {
-    background-color: lightblue; /* Change to your desired color */
-    font-family: Arial, sans-serif; /* Optional: Customize font */
+    background-color: lightblue; /* Background color of the page */
+    font-family: Arial, sans-serif; /* Font style for the entire page */
+    margin: 20px; /* Add space around the body content */
+    padding: 20px; /* Add space inside the body content */
+}
+
+h1 {
+    color: #333; /* Dark gray color for the heading */
+    text-align: center; /* Center the heading text */
+}
+
+p {
+    font-size: 16px; /* Font size for paragraphs */
+    line-height: 1.6; /* Line spacing for readability */
+}
+
+a {
+    color: #0056b3; /* Link color */
+    text-decoration: none; /* Remove underline from links */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline links on hover */
 }
